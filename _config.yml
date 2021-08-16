@@ -1,13 +1,13 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 历史学的程序员
+SEOTitle: 历史学的程序员 - 平静的交流
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+email: 790477302@qq.com
+description: "喜爱历史，摄影的平静的算法工程师"
+keyword: "算法, 人工智能, 历史, 摄影, 生活"
+url: "https://machao123343.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/machao123343/machao123343.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -99,13 +99,10 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "CSDN：历史学的程序员",
+        href: "https://blog.csdn.net/qq_40083438"
     },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "知乎：墨轩",
+        href: "https://www.zhihu.com/people/mo-xuan-88-43"
     }
 ]
