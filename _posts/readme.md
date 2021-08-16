@@ -1,4 +1,14 @@
-# Google-Smartphone-Decimeter-Challenge 竞赛方案回顾
+---
+layout:     post
+title:      Google-Smartphone-Decimeter-Challenge 竞赛方案回顾
+subtitle:   智能手机定位的时序数据处理竞赛
+date:       2021-08-05
+author:     Chao Ma
+header-img: img/the-first.png
+catalog: false
+tags:
+    - 项目经历
+---
 
 
 
